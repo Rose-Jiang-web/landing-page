@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Courgette|Homemade+Apple|Kaushan+Script|Roboto&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/Avatar.css");
+
+@import url("components/button-blue.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/grid.css");
+
+body {
+	font-family: 'Courgette', cursive;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
